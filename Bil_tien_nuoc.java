@@ -132,5 +132,6 @@ class list_bill
                }
            }
    }
+//nguyen van quan cap nhat
 
 }
